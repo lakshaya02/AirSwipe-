@@ -1,5 +1,14 @@
-# Aero-Cursor
+# Aero-Cursor 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10.9-orange)
+![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey)
+![Offline](https://img.shields.io/badge/Works-Offline-brightgreen)
+
+---
+
 A gesture-controlled laptop interface that enables touchless interaction using computer vision for accessibility, productivity, and real-time control.
+
 
 ---
 
