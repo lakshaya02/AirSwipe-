@@ -16,7 +16,7 @@ A gesture-controlled laptop interface that enables touchless interaction using c
 
 | Resource | Link |
 |---|---|
-| 📊 Presentation Slides | [View Deck](https://docs.google.com/presentation/d/1N-_Js21nMpM5VEdOXUCWVjTUj8EUIO5I/edit?slide=id.p1#slide=id.p1) |
+| 📊 Presentation Slides | [View Deck](https://docs.google.com/presentation/d/1_azxZOGd-NYMCsJKR2zUexVeXlY3_4o4/edit?usp=sharing&ouid=107626969627708814628&rtpof=true&sd=true) |
 | 🎥 Video Pitch | [Watch Demo](https://drive.google.com/file/d/1KUo2Lrhvw0FbeS_Oxt9YZtJZVJJiIH4R/view?pli=1) |
 | 🌐 Live Deployment | _Desktop app — no hosted URL (see setup below)_ |
 
